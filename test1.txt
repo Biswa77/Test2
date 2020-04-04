@@ -1,1 +1,1 @@
-test1 file for testing.
+test1 file for testing. For testing the current file.
